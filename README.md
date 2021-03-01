@@ -6,6 +6,6 @@
 # Projects I am working on!
 
 - [x] TokiBot for Discord <br >
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=olliwes&repo=tokibot)(https://github.com/olliwes/tokibot/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=olliwes&repo=tokibot)](https://github.com/olliwes/tokibot/)
 - [x] A server status bot for Discord
 
