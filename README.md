@@ -5,4 +5,5 @@
 
 # Projects I am working on!
 
-- [x] TokiBot
+- [x] TokiBot for Discord
+- [x] A server status bot for Discord
