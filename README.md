@@ -6,5 +6,5 @@
 
 # Projects I am working on!
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=toki0179&repo=tokibot&theme=radical)](https://github.com/olliwes/tokibot/)<br >
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=toki0179&repo=tokibot-public&theme=radical)](https://github.com/olliwes/tokibot-public/)<br >
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=toki0179&repo=mcstatus-discord&theme=radical)](https://github.com/toki0179/mcstatus-discord/)
