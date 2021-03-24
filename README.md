@@ -1,5 +1,6 @@
 # Toki's Github
 ### Discord: toki#0999
+### Website: [toki.gq](https://toki.gq/)
 ### Gitlab: [toki0179](https://gitlab.com/toki0179)
 ### ![](https://komarev.com/ghpvc/?username=toki0179&color=red)
 
