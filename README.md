@@ -1,5 +1,6 @@
 # Toki's Github
 ### Discord: toki#0999
+### Website: [Galactic Image Hosting](https://galactic-hosting.xyz/)
 ### Gitlab: [toki0179](https://gitlab.com/toki0179)
 ### ![](https://komarev.com/ghpvc/?username=toki0179&color=red)
 
