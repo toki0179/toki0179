@@ -1,6 +1,6 @@
 # Toki's Github
-### Email: owner@olliwes.com
-### Website: [https://olliwes.com](https://olliwes.com/)
+### Email: owner@olliwes.me
+### Website: [https://olliwes.me](https://olliwes.me/)
 ### Gitlab: [toki0179](https://gitlab.com/toki0179)
 ### ![](https://komarev.com/ghpvc/?username=toki0179&color=red)
 
