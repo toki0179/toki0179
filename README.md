@@ -1,5 +1,5 @@
 # Toki's Github
-### Email: hello@olliwes.me
+### Email: hello@olliwes.me (Currently not working)
 ### Website: [https://olliwes.me](https://olliwes.me/)
 ### Gitlab: [toki0179](https://gitlab.com/toki0179)
 ### ![](https://komarev.com/ghpvc/?username=toki0179&color=red)
