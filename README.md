@@ -1,4 +1,4 @@
-# Toki's Github
+# Olli Wesselingh's Github
 ### Email: hello@olliwes.me
 ### Website: [https://olliwes.me](https://olliwes.me/)
 ### Gitlab: [toki0179](https://gitlab.com/toki0179)
