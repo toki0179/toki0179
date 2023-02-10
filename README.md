@@ -1,6 +1,6 @@
 # Olli Wesselingh's Github
-### Email: hello@olliwes.me
-### Website: [https://olliwes.me](https://olliwes.me/)
+### Email: olliwes01@gmail.com
+### Website: Not Available
 ### ![](https://komarev.com/ghpvc/?username=toki0179&color=red)
 
 ![](https://github-readme-stats.vercel.app/api?username=toki0179&show_icons=true&theme=radical)<br >
