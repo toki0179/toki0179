@@ -1,5 +1,5 @@
 # Toki's Github
-### Email: UnAvailable (will be added back soon)
+### Email: Not Available (will be added back soon)
 ### Website: Not Available
 ### ![](https://komarev.com/ghpvc/?username=toki0179&color=red)
 
