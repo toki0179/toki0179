@@ -1,6 +1,6 @@
 # Toki's Github
 ### Email: Not Available (will be added back soon)
-### Website: Not Available
+### Website: [dingus.gay/shady](https://dingus.gay/shady)
 ### ![](https://komarev.com/ghpvc/?username=toki0179&color=red)
 
 ![](https://github-readme-stats.vercel.app/api?username=toki0179&show_icons=true&theme=radical)<br >
